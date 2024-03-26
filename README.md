@@ -4,7 +4,7 @@ This is an open source project from [DevProjects](http://www.codementor.io/proje
 Find the project requirements here: [Build a custom google maps theme](https://www.codementor.io/projects/web/build-a-custom-google-maps-theme-bf8levr6eg)
 
 ## Tech/framework used
-Built with ___
+Built with HTML,CSS,Jscript.
 
 ## Screenshots and demo
 Screenshots of your app and/or a link to your live demo
